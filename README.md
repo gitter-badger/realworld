@@ -344,4 +344,4 @@ All of the codebases are **MIT licensed** unless otherwise specified.
 
 <br />
 
-[![Brought to you by Thinkster](media/end.png)](https://thinkster.io)
+[![Brought to you by Thinkster](media/end.png)](https://thinkster.io) [![Join the chat at https://gitter.im/turkdevops/realword](https://badges.gitter.im/turkdevops/realword.svg)](https://gitter.im/turkdevops/realword?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
